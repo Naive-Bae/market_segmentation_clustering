@@ -3,6 +3,10 @@
 
 ## **Introduction**
 
+This study seeks to identify unique clusters of young people based on their responses to a lifestyle and interests survey. It uses unsupervised clustering algorithms (k-Means) and dimensionality reduction (PCA, tSNE) to arrive at the cluster assignments.   
+  
+## **The Data**
+
 [Data Source](https://www.kaggle.com/miroslavsabo/young-people-survey)
 
 In 2013, students of the Statistics class at FSEV UK were asked to invite their friends to participate in this survey.  
