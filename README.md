@@ -228,7 +228,8 @@ Alcohol
   
 ### PCA 
 
-  
+![Imgur](https://i.imgur.com/NKXVX1Ul.gif)
+
 **Why?**  
 * There are 150+ features in the data set 
 * To capture the most important info in new axes which:
