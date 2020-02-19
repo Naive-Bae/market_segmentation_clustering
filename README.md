@@ -3,8 +3,12 @@
 
 ## **Introduction**
 
-This study seeks to identify unique clusters of young people based on their responses to a lifestyle and interests survey. It uses unsupervised clustering algorithms (k-Means) and dimensionality reduction (PCA, tSNE) to arrive at the cluster assignments.   
+This study seeks to identify unique clusters of young people based on their responses to a lifestyle and interests survey. It uses unsupervised clustering algorithms (k-Means) and dimensionality reduction (PCA, tSNE) to arrive at the cluster assignments.  
   
+## **Hypothesis**   
+* We can find new or unexpected ways to group young adults, based on latent patterns in their survey responses.  
+* We can distill the survey questions down to essential vectors that encapsulate the information contained in their responses. 
+   
 ## **The Data**
 
 [Data Source](https://www.kaggle.com/miroslavsabo/young-people-survey)
@@ -209,9 +213,23 @@ Internet usage
 Lying  
 Punctuality  
 Smoking  
-Alcohol  
+Alcohol   
+  
+## **Methodology**  
+  
+* Intelligently impute missing data  
+* Reduce dimensionality  
+    * Determine optimal number of principal components  
+    * How much variance do they describe?
+* Cluster using principal components
+    * Determine how many clusters best describe the data
+    * What is the inertia of the model?
+* Examine the clusters to infer generalities  
+  
+### PCA 
   
 ## **Findings**  
+  
 Due to the limited number of observations, it was difficult to glean nuanced market segments from the individuals represented in the data. What was clear, however, is that there is clear segmentation along gender lines. This held true for nearly every category. 
 
 However, the methodologies employed here would doubtless serve indispensable in a more refined analysis should more data be made available. 
