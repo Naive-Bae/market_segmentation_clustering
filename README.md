@@ -267,11 +267,11 @@ The explained variance seems to elbow at either 3 or 4 prinicipal components (PC
 
 An inertia plot indicated that the optimal number of clusters was 3, and this seems to agree with intuition. Since we only have 1,000 observations, it would be difficult to classify them into a lot of nuanced groups. Here are some visualizations of the results.
 
-![Imgur](https://i.imgur.com/jBAkbvXm.png)
+![Imgur](https://i.imgur.com/jBAkbvXl.png)
 
 Of these three clusters, we can see that two of them are *highly* gendered (clusters 2 and 3). In fact, if you color our population based just on gender, this is what the space looks like:
 
-![Imgur](https://i.imgur.com/hsPdzDWm.png)
+![Imgur](https://i.imgur.com/hsPdzDWl.png)
 
 ## **Findings**  
   
