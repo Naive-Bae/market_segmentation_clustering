@@ -227,7 +227,20 @@ Alcohol
 * Examine the clusters to infer generalities  
   
 ### PCA 
+
+![PCA Gif]([Imgur](https://i.imgur.com/NKXVX1U.gifv))  
   
+**Why?**  
+* There are 150+ features in the data set 
+* To capture the most important info in new axes which:
+    * Maximize variance
+    * Minimize error
+
+![Scree Plot]([Imgur](https://i.imgur.com/4tN3Cf6.png)
+
+The explained variance seems to elbow at either 3 or 4 prinicipal components (PCs). I continued with 3 because of the advantage afforded by being able to visualize the three axes in 3D space. The fourth PC wouldn't have provided much additional explained variance. 
+
+
 ## **Findings**  
   
 Due to the limited number of observations, it was difficult to glean nuanced market segments from the individuals represented in the data. What was clear, however, is that there is clear segmentation along gender lines. This held true for nearly every category. 
