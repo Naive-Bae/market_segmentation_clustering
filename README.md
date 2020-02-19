@@ -263,7 +263,7 @@ The explained variance seems to elbow at either 3 or 4 prinicipal components (PC
         1. Interest in shopping
         2. Spending on looks
         
-## **K-Means Clustering**
+### K-Means Clustering
 
 An inertia plot indicated that the optimal number of clusters was 3, and this seems to agree with intuition. Since we only have 1,000 observations, it would be difficult to classify them into a lot of nuanced groups. Here are some visualizations of the results.
 
