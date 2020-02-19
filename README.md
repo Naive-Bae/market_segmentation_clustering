@@ -248,10 +248,33 @@ The explained variance seems to elbow at either 3 or 4 prinicipal components (PC
     * Heaviest negative components:
         1. Romantic
         2. Interest in reading
+* PC2:
+    * Heaviest positive components: 
+        1. Interest in classical music
+        2. Interest in opera
+    * Heaviest negative components:
+        1. Fear of spiders
+        2. Fear of rats
+* PC3:
+    * Heaviest positive components: 
+        1. Interest in heavy metal
+        2. Never smoked
+    * Heaviest negative components:
+        1. Interest in shopping
+        2. Spending on looks
+        
+## **K-Means Clustering**
 
+An inertia plot indicated that the optimal number of clusters was 3, and this seems to agree with intuition. Since we only have 1,000 observations, it would be difficult to classify them into a lot of nuanced groups. Here are some visualizations of the results.
+
+![Imgur](https://i.imgur.com/jBAkbvXm.png)
+
+Of these three clusters, we can see that two of them are *highly* gendered (clusters 2 and 3). In fact, if you color our population based just on gender, this is what the space looks like:
+
+![Imgur](https://i.imgur.com/hsPdzDWm.png)
 
 ## **Findings**  
   
-Due to the limited number of observations, it was difficult to glean nuanced market segments from the individuals represented in the data. What was clear, however, is that there is clear segmentation along gender lines. This held true for nearly every category. 
-
-However, the methodologies employed here would doubtless serve indispensable in a more refined analysis should more data be made available. 
+[Imgur](https://i.imgur.com/yNJJaFjm.png)
+  
+Due to the limited number of observations, it was difficult to glean nuanced market segments from the individuals represented in the data. The results seemed to be almost comically stereotypical in their gendered representations. However, the methodologies employed here would doubtless serve indispensable in a more refined analysis should more data be made available. 
