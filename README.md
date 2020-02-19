@@ -228,7 +228,7 @@ Alcohol
   
 ### PCA 
 
-![Imgur](https://i.imgur.com/NKXVX1Ul.gif)
+![Imgur](https://i.imgur.com/NKXVX1U.gifv)
 
 **Why?**  
 * There are 150+ features in the data set 
