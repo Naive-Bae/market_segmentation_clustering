@@ -236,7 +236,7 @@ Alcohol
     * Maximize variance
     * Minimize error
 
-!([Imgur](https://i.imgur.com/4tN3Cf6.png)
+!([Imgur](https://i.imgur.com/4tN3Cf6s.png)
 
 The explained variance seems to elbow at either 3 or 4 prinicipal components (PCs). I continued with 3 because of the advantage afforded by being able to visualize the three axes in 3D space. The fourth PC wouldn't have provided much additional explained variance. 
 
