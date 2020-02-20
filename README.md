@@ -277,4 +277,4 @@ Of these three clusters, we can see that two of them are *highly* gendered (clus
   
 ![Imgur](https://i.imgur.com/yNJJaFjl.png)
   
-Due to the limited number of observations, it was difficult to glean nuanced market segments from the individuals represented in the data. The results seemed to be almost comically stereotypical in their gendered representations. However, the methodologies employed here would doubtless serve indispensable in a more refined analysis should more data be made available. 
+Due to the limited number of observations, it was difficult to glean nuanced market segments from the individuals represented in the data. The results seemed to be almost comically stereotypical in their gendered representations. However, the methodologies employed here would doubtless serve indispensable in a more refined analysis, should more data be made available. 
