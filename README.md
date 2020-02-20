@@ -269,7 +269,7 @@ An inertia plot indicated that the optimal number of clusters was 3, and this se
 
 ![Imgur](https://i.imgur.com/jBAkbvXl.png)
 
-Of these three clusters, we can see that two of them are *highly* gendered (clusters 2 and 3). In fact, if you color our population based just on gender, this is what the space looks like:
+Of these three clusters, we can see that two of them are *highly* gendered (clusters 2 and 3). In fact, if we color our population based just on gender, this is what the space looks like:
 
 ![Imgur](https://i.imgur.com/hsPdzDWl.png)
 
